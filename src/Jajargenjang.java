@@ -1,3 +1,4 @@
+//nama:arya kusuma
 import java.util.Scanner;
 public class Jajargenjang{
     public static void main(String[] args) {
