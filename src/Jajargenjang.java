@@ -19,8 +19,9 @@ public class Jajargenjang{
          * @param luas: panjang alas * tinggi
          * @param keliling: 2 * (panjangAlas + panjangSisiMiring)
          */
-        double luas = panjangAlas * tinggi;
-        double keliling = 2 * (panjangAlas + panjangSisiMiring);
+    double luas = panjangAlas * tinggi;
+    double keliling = 2 * (panjangAlas + panjangSisiMiring);
+
 
         System.out.println("Luas jajargenjang: " + luas);
         System.out.println("Keliling jajargenjang: " + keliling);
